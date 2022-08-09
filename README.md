@@ -16,7 +16,7 @@
       <div class="row">
         <div class="col-lg-6 col-md-8 mx-auto">
           <img src="imageIgor.jpg.jpg" alt="Igaryan" />
-          <h1 class="fw-light">Igoryamba Gamer.</h1>
+          <h1 class="fw-light">Igoryamba.</h1>
           <p class="lead text-muted">
             I'm a qool man. It's Web Page of apt. 806. We are glad to see you!
             Hello, Hello Hello Hello Hello

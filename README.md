@@ -11,6 +11,10 @@
       crossorigin="anonymous"
     />
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
     <style>
       .rounded-img {
         width: 60%;
@@ -41,10 +45,11 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active" aria-current="page" href="/
+              ">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Favorite Places</a>
+              <a class="nav-link" href="places.html">Favorite Places</a>
             </li>
             </li>
           </ul>
@@ -55,9 +60,9 @@
       <div class="row">
         <div class="col-lg-6 col-md-8 mx-auto">
           <img class="rounded-img" src="imageIgor.jpg.jpg" alt="Igaryan" />
-          <h1 class="fw-light">Igoryamba Gamer.</h1>
+          <h1 class="fw-light">Igor Gamer.</h1>
           <p class="lead text-muted">
-            I'm a qool man. It's Web Page of apt. 806. We are glad to see you!
+            It's Web Page of apt. 806. We are glad to see you!
             Hello, Hello Hello Hello Hello
           </p>
           <a
